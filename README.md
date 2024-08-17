@@ -6,11 +6,13 @@
 
 This project combines real-time video tracking and a painting application using OpenCV. We track objects by finding contours and visualize their paths through painting.
 
-![Contour Tracking GIF]  ![gif1](https://github.com/user-attachments/assets/fb9c380d-a121-469f-a4c5-aa2ec714a155)
+## 🔍 Contour of Interest Tracking
+  
+![gif1](https://github.com/user-attachments/assets/fb9c380d-a121-469f-a4c5-aa2ec714a155)
 
-## Path Mapping using Paint Application - ![gif2](https://github.com/user-attachments/assets/cb29ec96-6748-46e6-8563-7d7a5705e590)
+## 🎨 Path Mapping using Paint Application
 
-
+![gif2](https://github.com/user-attachments/assets/cb29ec96-6748-46e6-8563-7d7a5705e590)
 
 ## 📚 Table of Contents
 - [Introduction](#introduction)
